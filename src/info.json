@@ -1,11 +1,11 @@
 {
   "identifier": "com.roojay.bobplug.bobpluggoogletts",
   "category": "tts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "Google 语音合成",
   "summary": "Google TTS 插件",
   "author": "roojay <roojay520@gmail.com>",
-  "appcast": "https://raw.githubusercontent.com/roojay/bobplug-google-tts/master/src/appcast.json",
+  "appcast": "https://raw.githubusercontent.com/roojay520/bobplug-google-tts/master/src/appcast.json",
   "homepage": "https://github.com/roojay520/bobplug-google-tts",
   "icon": "003",
   "minBobVersion": "0.5.0",
