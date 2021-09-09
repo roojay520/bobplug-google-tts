@@ -5,10 +5,10 @@
 
 const config = {
   pkgName: 'bobplug-google-tts',
-  github:{
-    username: 'roojay',
-    repository: 'bobplug-google-tts'
-  }
+  github: {
+    username: 'roojay520',
+    repository: 'bobplug-google-tts',
+  },
 };
 
 module.exports = config;
