@@ -2,6 +2,13 @@
   "identifier": "com.roojay.bobplug.bobpluggoogletts",
   "versions": [
     {
+      "version": "0.1.1",
+      "desc": "https://github.com/roojay520/bobplug-google-tts/blob/master/CHANGELOG.md",
+      "sha256": "10511f3c94e637b713e7f6fd09a8d64b9ed60905676eb698f83e32c70fd2b4cd",
+      "url": "https://github.com/roojay520/bobplug-google-tts/releases/download/v0.1.1/bobplug-google-tts-v0.1.1.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.1.0",
       "desc": "https://github.com/roojay520/bobplug-google-tts/blob/master/CHANGELOG.md",
       "sha256": "1d9e318267143c19ed8d8fd18844b09e58131291d71372efe3dc204a14d26b97",
