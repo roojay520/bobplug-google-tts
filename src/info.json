@@ -1,0 +1,30 @@
+{
+  "identifier": "com.roojay.bobplug.bobpluggoogletts",
+  "category": "tts",
+  "version": "0.0.0",
+  "name": "Google 语音合成",
+  "summary": "Google TTS 插件",
+  "author": "roojay <roojay520@gmail.com>",
+  "appcast": "https://raw.githubusercontent.com/roojay/bobplug-google-tts/master/src/appcast.json",
+  "homepage": "https://github.com/roojay520/bobplug-google-tts",
+  "icon": "003",
+  "minBobVersion": "0.5.0",
+  "options": [
+    {
+      "identifier": "tld",
+      "type": "menu",
+      "title": "接口域名",
+      "defaultValue": "cn",
+      "menuValues": [
+        {
+          "title": "google.cn(国内)",
+          "value": "cn"
+        },
+        {
+          "title": "google.com(国际)",
+          "value": "com"
+        }
+      ]
+    }
+  ]
+}
