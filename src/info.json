@@ -1,7 +1,7 @@
 {
   "identifier": "com.roojay.bobplug.bobpluggoogletts",
   "category": "tts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "name": "Google 语音合成",
   "summary": "Google TTS 插件",
   "author": "roojay <roojay520@gmail.com>",
