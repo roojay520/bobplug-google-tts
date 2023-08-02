@@ -9,6 +9,7 @@ var languageList: ILang[] = [
   ['zh-Hans', 'zh-CN'],
   ['zh-Hant', 'zh-TW'],
   ['en', 'en'],
+  ['ja', 'ja'],
 ];
 
 // Bob 语种标识符
